@@ -1,5 +1,7 @@
 # gen-z-insights
 Python-based market research project on Gen-Z consumer behavior, advertising trust and shopping preferences.
+
+
 Gen-Z Insights
 Themen: Education, Income, Social Media, Values, Consumer Behavior
 Datensatz
