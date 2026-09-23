@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+import statsmodels.api as sm
 from scipy.stats import ttest_ind
 
 data = pd.read_csv("genz_dataset.csv")
